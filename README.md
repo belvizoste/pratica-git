@@ -11,12 +11,9 @@ O comando acima define o VS Code como o editor padrão das mensagens de commit.
 git commit --allow-empty
 ~~~
 
-O parâmetro `--allow-empty` permite a criação de um commit vazio, para fins de prática e estudo de git.
+O parâmetro `--allow-empty` permite a criação de um commit vazio, para fins de prática e estudo de Git.
 
 ~~~bash
 git commit -a 
 ~~~
-O parâmetro `-a` adiciona todos os arquivos modificados ou não ignorados ao commit atual. 
-<!-- não adiciona arquivos novos sem alteração e não rastreados -->
-
-<!-- -->
+O parâmetro `-a` adiciona todos os arquivos modificados ou não ignorados ao commit atual. <!-- não adiciona arquivos novos sem alteração e não rastreados -->
